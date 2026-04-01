@@ -1,0 +1,15 @@
+@
+# Ignore all JSON files (to hide your Firebase keys)
+*.json
+
+# BUT do NOT ignore these specific important files
+!package.json
+!tsconfig.json
+!app.json
+
+# Ignore heavy library folders
+node_modules/
+.expo/
+dist/
+my-app/
+@
