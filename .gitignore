@@ -1,4 +1,3 @@
-@
 # Ignore all JSON files (to hide your Firebase keys)
 *.json
 
@@ -11,5 +10,3 @@
 node_modules/
 .expo/
 dist/
-my-app/
-@
