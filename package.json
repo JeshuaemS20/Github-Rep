@@ -16,6 +16,8 @@
     "typescript": "~5.9.2"
   },
   "dependencies": {
-    "@react-navigation/native-stack": "~7.9.0"
+    "@react-navigation/native-stack": "~7.9.0",
+    "react-dom": "^19.2.4",
+    "react-native-web": "^0.21.2"
   }
 }
